@@ -1,0 +1,13 @@
+Dobro dosli
+
+1. Fajl csgo_balkan ubaciti u : C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource
+2. Nakon toga uci u Steam > Library > Home > CS GO > desni klik > Properites > General > Launch Options > -language balkan
+
+Ocekujte Jednom mesecno neki update za neke izmene. Hvala.
+
+
+Ostala podesavanja za CS GO in game u Launch options : novid -high -nod3d9ex -processheap  -nojoy -noforcemparms
+ -noforcemaccel -tickrate 128 -noaafonts +mat_queue_mode 2  +mat_vignette_enable 0 -language balkan
+
+Moj rad mozete podrzati na Trovo.live/salehappy
+Hvala
